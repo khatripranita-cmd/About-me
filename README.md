@@ -18,5 +18,5 @@ I am an aspiring Data Analyst with hands-on experience in Excel, SQL, Python, Po
 To grow as a Data Analyst and build real-world data-driven solutions.
 
 ## 📫 Connect with me
-- LinkedIn: https://www.linkedin.com
-- GitHub: https://github.com
+- LinkedIn: https://www.linkedin.com/in/pranita-khatri
+- GitHub: https://github.com/khatripranita-cmd
